@@ -1,0 +1,83 @@
+{
+    "name": "vscode-wis",
+    "displayName": "vscode-wis",
+    "description": "Set of useful Angular extensions that we recommend at WIS Software",
+    "author": {
+        "name": "Vitaly Slobodin",
+        "email": "v.slobodin@wis.software"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "angular",
+        "typescript"
+    ],
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/wis-software/vscode-wis.git"
+    },
+    "galleryBanner": {
+        "color": "#7FC04E",
+        "theme": "dark"
+    },
+    "extensionPack": [
+        "adamwalzer.scss-lint",
+        "Angular.ng-template",
+        "ban.spellright",
+        "ChakrounAnas.turbo-console-log",
+        "christian-kohler.npm-intellisense",
+        "chrmarti.regex",
+        "CoenraadS.bracket-pair-colorizer",
+        "cssho.vscode-svgviewer",
+        "cyrilletuzi.angular-schematics",
+        "DavidAnson.vscode-markdownlint",
+        "dbaeumer.vscode-eslint",
+        "DotJoshJohnson.xml",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "eg2.vscode-npm-script",
+        "emilast.LogFileHighlighter",
+        "esbenp.prettier-vscode",
+        "ghaschel.vscode-angular-html",
+        "HookyQR.beautify",
+        "humao.rest-client",
+        "IBM.output-colorizer",
+        "infinity1207.angular2-switcher",
+        "jakethashi.vscode-angular2-emmet",
+        "JoeBerria.statusbarerror",
+        "joelday.docthis",
+        "johnpapa.Angular2",
+        "kamikillerto.vscode-colorize",
+        "kisstkondoros.csstriggers",
+        "kumar-harsh.graphql-for-vscode",
+        "mechatroner.rainbow-csv",
+        "mhutchie.git-graph",
+        "Mikael.Angular-BeastCode",
+        "mkaufman.HTMLHint",
+        "mohsen1.prettify-json",
+        "mrmlnc.vscode-autoprefixer",
+        "mrmlnc.vscode-scss",
+        "msjsdiag.debugger-for-chrome",
+        "natewallace.angular2-inline",
+        "nhoizey.gremlins",
+        "nrwl.angular-console",
+        "patbenatar.advanced-new-file",
+        "pflannery.vscode-versionlens",
+        "PhilHindle.errorlens",
+        "quicktype.quicktype",
+        "robinbentley.sass-indented",
+        "ryu1kn.partial-diff",
+        "sanderledegen.angular-follow-selector",
+        "shinnn.stylelint",
+        "sibiraj-s.vscode-scss-formatter",
+        "smelukov.vscode-csstree",
+        "techer.open-in-browser",
+        "tomoki1207.pdf",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
